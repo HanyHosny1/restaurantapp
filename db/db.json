@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "e099",
+      "email": "hany@test.com",
+      "name": "hany",
+      "password": "hany@111"
+    },
+    {
+      "id": "ca8b",
+      "email": "ahmed@test.com",
+      "password": "ahmed@222",
+      "name": "Ahmed"
+    },
+    {
+      "id": "5109",
+      "email": "john@test.com",
+      "password": "john@333",
+      "name": "john"
+    },
+    {
+      "id": "9ca2",
+      "email": "peter@test.com",
+      "password": "peter@444",
+      "name": "peter"
+    },
+    {
+      "id": "88ed",
+      "email": "jason@test.com",
+      "password": "jason@555",
+      "name": "jason"
+    },
+    {
+      "id": "276c",
+      "email": "mohsen@test.com",
+      "password": "mohsen@101",
+      "name": "Mohsen"
+    },
+    {
+      "id": "2054",
+      "email": "mohamed@test.com",
+      "password": "mohamed@555",
+      "name": "mohamed"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "New Cairo 100",
+      "contact": "181124",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Papa Jones Pizza",
+      "contact": "222222",
+      "address": "Maadi Degla 100"
+    },
+    {
+      "id": "3",
+      "name": "Fish Market",
+      "contact": "333333",
+      "address": "Kornish AlNile 120"
+    },
+    {
+      "id": "4",
+      "name": "KFC",
+      "contact": "444444",
+      "address": "Madinaty Block 350"
+    },
+    {
+      "id": "6973",
+      "name": "Grill Shop",
+      "address": "6th of October",
+      "contact": "666666"
+    },
+    {
+      "name": "Grill Master",
+      "address": "Alexandria",
+      "contact": "252426",
+      "id": "ef94"
+    },
+    {
+      "id": "5847",
+      "name": "Fish Souq Suez",
+      "address": "Suez City",
+      "contact": "457865"
+    }
+  ]
+}
